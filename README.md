@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL:
+- Solution URL: https://github.com/netdelusion/Newsletter-sign-up-form-with-success-message-solution
+- Live Site URL: https://newsletter-sign-up-form-with-success-message-solution-ten.vercel.app/
 
 ## My process
 
