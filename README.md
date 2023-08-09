@@ -27,16 +27,10 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./assets/images/screenshot.png)
-
 ### Links
 
 - Solution URL: https://github.com/netdelusion/Newsletter-sign-up-form-with-success-message-solution
 - Live Site URL: https://newsletter-sign-up-form-with-success-message-solution-ten.vercel.app/
-
-## My process
 
 ### Built with
 
